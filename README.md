@@ -13,7 +13,7 @@ The project involves:
 
 - **Modeling**: Implemented three LSTM architectures (**Uni-directional LSTM**, **Bi-directional LSTM**, and **Stacked Bi-directional LSTM**) for **time series forecasting** of electricity load.
 
-- **Evaluation and Visualization**: Model performance is evaluated using **Mean Absolute Error (MAE)** and **validation loss**.
+- **Evaluation and Visualization**: Model performance is evaluated using **Mean Absolute Percentage Error (MAPE (%))** and **R² Score**.
 
 ## Dataset
 
